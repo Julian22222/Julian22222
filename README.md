@@ -1,8 +1,3 @@
-# Julian222222
-
-Hello
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julian22222&show_icons=true)
-
 # Hi, I'm Julian 👋
 
 💻 Junior Full-Stack Developer  
