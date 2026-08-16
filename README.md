@@ -24,6 +24,8 @@ I enjoy solving real-world problems, improving performance, and continuously dev
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28"/>
@@ -70,13 +72,13 @@ JavaScript | TypeScript | C#
 React | Next.js | HTML | CSS | Bootstrap | Vue.js | ASP.NET Core MVC
 
 **Backend:**  
-Node.js | NestJS | Express.js | REST APIs | ASP.NET Core  
+Node.js | NestJS | Express.js | REST APIs | Prisma | Redis | ASP.NET Core  
 
 **Databases:**  
 PostgreSQL | MongoDB | MySQL  
 
 **Testing:**  
-Jest | Supertest  
+Jest | Supertest | React testing library
 
 **Tools & DevOps:**  
 Git | GitHub | Docker | GitHub Actions | Postman  
