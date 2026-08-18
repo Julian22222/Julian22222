@@ -104,8 +104,8 @@ TypeScript • Next.js • NestJS • PostgreSQL • JWT • Docker
 
 ---
 
-### 🍷 Wine Shop (E-commerce)
-Full-stack e-commerce application with a focus on user experience and scalable backend design.
+### 🍷 Wine Shop — Full-Stack E-commerce Application)
+Full-stack e-commerce application with a separate React frontend and Node.js REST API backend.
 
 Tech:
 React • Node.js • PostgreSQL • REST API
