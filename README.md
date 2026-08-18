@@ -121,12 +121,13 @@ React • Node.js • PostgreSQL • REST API
 
 👉 [View Project](https://julian22222.github.io/Wine-Shop/)
 
+```text
 Wine Shop
 │
 ├── Wine-Shop (Frontend)
 │
 └── Wine-Shop-BackEnd
-
+```
 ---
 
 ## 📈 Currently learning & building
