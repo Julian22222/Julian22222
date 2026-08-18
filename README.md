@@ -6,8 +6,6 @@ I'm a Full-Stack Developer with hands-on commercial experience building and main
 
 I focus on backend development, API design, and testing, with a strong interest in building reliable, maintainable systems. I’ve worked in Agile teams contributing to API development, testing strategies, and CI/CD workflows.
 
-I enjoy solving real-world problems, improving performance, and continuously developing my technical skills.
-
 ## 
 🛠 Languages & Tools
 
@@ -91,6 +89,9 @@ AWS
 ### 🏦 Bank Application
 Full-stack banking application focused on secure transaction handling and backend reliability.
 
+Tech:
+TypeScript • Next.js • NestJS • PostgreSQL • JWT • Docker
+
 - Designed and implemented RESTful APIs to manage accounts, balances, and transactions  
 - Built core banking features including deposits, withdrawals, and transaction tracking  
 - Applied input validation and error handling to ensure data integrity and system reliability  
@@ -106,6 +107,9 @@ Full-stack banking application focused on secure transaction handling and backen
 ### 🍷 Wine Shop (E-commerce)
 Full-stack e-commerce application with a focus on user experience and scalable backend design.
 
+Tech:
+React • Node.js • PostgreSQL • REST API
+
 - Developed a product catalogue with filtering, search, and dynamic data rendering  
 - Implemented shopping cart functionality and basic order management workflow  
 - Built RESTful APIs to support client-server communication and data handling  
@@ -117,14 +121,21 @@ Full-stack e-commerce application with a focus on user experience and scalable b
 
 👉 [View Project](https://julian22222.github.io/Wine-Shop/)
 
----
-
-## 📈 What I’m Working On
-
-- Improving backend architecture and API performance  
-- Strengthening testing practices (unit & integration)  
-- Practicing AWS by building and deploying scalable web applications and services 
+Wine Shop
+│
+├── Wine-Shop (Frontend)
+│
+└── Wine-Shop-BackEnd
 
 ---
 
-⭐ Always open to opportunities and collaboration
+## 📈 Currently learning & building
+
+- Deepening backend architecture with NestJS and PostgreSQL
+- Improving automated testing with Jest and Supertest 
+- Building and deploying applications using AWS
+- Exploring scalable API and caching patterns
+
+---
+
+⭐ Open to Software Developer and Full-Stack Developer opportunities
