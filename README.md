@@ -31,8 +31,6 @@ I enjoy solving real-world problems, improving performance, and continuously dev
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="28"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="28"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28"/>
 </p>
   
@@ -66,16 +64,16 @@ I enjoy solving real-world problems, improving performance, and continuously dev
 ## 🛠 Tech Stack
 
 **Languages:**  
-JavaScript | TypeScript | C#  
+JavaScript | TypeScript 
 
 **Frontend:**  
-React | Next.js | HTML | CSS | Bootstrap | Vue.js | ASP.NET Core MVC
+React | Next.js | HTML | CSS | Bootstrap | Vue.js
 
 **Backend:**  
-Node.js | NestJS | Express.js | REST APIs | Prisma | Redis | ASP.NET Core  
+Node.js | NestJS | Express.js | REST APIs 
 
 **Databases:**  
-PostgreSQL | MongoDB | MySQL  
+PostgreSQL | MongoDB | MySQL | Prisma | Redis
 
 **Testing:**  
 Jest | Supertest | React testing library
@@ -84,7 +82,7 @@ Jest | Supertest | React testing library
 Git | GitHub | Docker | GitHub Actions | Postman  
 
 **Clouds:**  
-AWS | AZURE
+AWS
 
 ---
 
